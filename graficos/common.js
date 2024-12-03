@@ -17,4 +17,3 @@ const tickConfig = {
 }
 /*Exportar para que outros módulos possam utilizar*/
 export {getCSS, tickConfig}
-

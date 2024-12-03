@@ -30,4 +30,3 @@ async function vizualizarInformacoesGlobais() {
     container.appendChild(paragrafo)
 }
 vizualizarInformacoesGlobais()
-
